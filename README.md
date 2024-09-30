@@ -5,12 +5,11 @@ I analyzed a comprehensive dataset containing information on **131,043 unique vi
 
 ## Key Analyses Conducted
 1. **Title Counts Over the Years**: Examined the trends in the number of game titles released annually.
-2. **Top 5 Categories**: Identified the top 5 titles, genres, platforms, developers, and publishers based on:
+2. **Top 5 Categories**: Identified the top 5 titles, genres, platforms, developers, publishers etc. based on:
    - Title count
    - Positive critic reviews
    - Positive user reviews
    - Metascore ratings
-3. **Platform Analysis**: Focused exclusively on title counts across different platforms.
 
 ## Interactive Dashboard
 All of these analyses were presented in an **interactive Tableau dashboard**, providing valuable insights into the gaming industry, trends over time, and performance metrics across various platforms.
